@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Travous Wayne</h1>
 <h3 align="center">I'm a passionate software engineer with a focus on building scalable and efficient applications. I have experience working with a variety of programming languages, frameworks, and tools. I thrive in collaborative environments and enjoy tackling complex challenges.</h3>
 
-<h3 align="left">Connect with me:linkedin.com/in/kennedy-muiruri1010 </h3>
+<h3 align="left">Connect with me:@linkedin.com/in/kennedy-muiruri1010 </h3>
 
 <p align="left">
 </p>
